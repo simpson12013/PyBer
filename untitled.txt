@@ -1,0 +1,4 @@
+Observable Trends:
+Trend 1: There is a close correlation between the amount of drivers in a city type and the amount of rides in a city type.
+Trend 2: There is a close correlation between the fare price of a ride and the amount of drivers available in a city type.
+Trend 3: The price of a ride in a given city type is driven down when there are more drivers and riders in said city type.
